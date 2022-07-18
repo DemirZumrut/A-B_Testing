@@ -1,4 +1,4 @@
-# A-B_Testin
+# A-B_Testing
 
 At its simplest, A/B testing is a method for comparing 2 versions of something against each other to discover which is the most successful. The something can be an image, a button, a headline, or beyond.
 
@@ -23,6 +23,3 @@ Impression: Ad views<br>
 Click: Number of clicks on the displayed ad<br>
 Purchase: The number of products purchased after the ads clicked<br>
 Earning: Earnings after purchased products<br>
-
-
-![AB_test.png](attachment:AB_test.png)
