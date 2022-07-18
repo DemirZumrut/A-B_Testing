@@ -2,6 +2,8 @@
 
 At its simplest, A/B testing is a method for comparing 2 versions of something against each other to discover which is the most successful. The something can be an image, a button, a headline, or beyond.
 
+### Business Problem:
+
 Facebook recently introduced a new bidding type, 'average bidding',
 as an alternative to the existing bidding type called 'maximum bidding'.
 One of our clients, Company_X, decided to test this new feature and
