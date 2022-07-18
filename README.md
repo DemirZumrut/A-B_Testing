@@ -18,8 +18,11 @@ data sets, the Control and Test group. These datasets are in separate sheets
 of the ab_testing.xlsx excel. Maximum Bidding was applied to the control group
 and Average Bidding was applied to the test group.
 
-#### Data Features:g
+#### Data Features:
 Impression: Ad views<br>
 Click: Number of clicks on the displayed ad<br>
 Purchase: The number of products purchased after the ads clicked<br>
 Earning: Earnings after purchased products<br>
+
+
+![AB_test.png](attachment:AB_test.png)
